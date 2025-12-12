@@ -1,2 +1,2 @@
 # my-first-project
-Dasturda koplab xatolar bolishi mumkun sababi bu mening birinchi loyxam bu men uchun koproq tajiriyba uchun hizmat qiladi!
+Dasturda ko‘plab xatolar bo‘lishi mumkin, sababi bu mening birinchi loyiham. Bu men uchun ko‘proq tajriba orttirish uchun xizmat qiladi!
